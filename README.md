@@ -1,4 +1,3 @@
 # Problemas
-Problemas competitivos
+Problemas competitivos de sites como BeeCrowd, codeforces, entre outros.
 
-Competitive problems
